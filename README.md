@@ -21,3 +21,4 @@ Then compile as instructed in the [Mitsuba 2 Docs](https://mitsuba2.readthedocs.
 in the `build` folder, execute `dist/mitsuba ../hair_scenes/xxx.xml`
 ## Note
 - In Mitsuba 2, $\omega_i$ denotes the camera ray and $\omega_o$ the light ray. Therefore, for elliptical cross-sections, these two components are swapped in `roughhair.cpp`.
+- This repository is the same as https://github.com/RiverIntheSky/roughhair/tree/ellipse
